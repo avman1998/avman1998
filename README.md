@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Verma
 - 👀 I’m interested in building exciting products.
 - 🌱 I’m currently learning MERN technologies.
-- 💞️ I’m looking to collaborate on software product development
+- 💞️ I’m looking to collaborate on software product development.
 - 📫 How to reach me : avman1998@gmail.com
 
 <!---
